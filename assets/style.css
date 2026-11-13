@@ -1,0 +1,9 @@
+body{margin:0}
+*{box-sizing:border-box}
+button,input,textarea{font:inherit;color:inherit}
+input::placeholder,textarea::placeholder{color:#6A7A90}
+svg.i{fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0}
+a{color:#0B2545}a:hover{color:#13315C}
+html{scroll-behavior:smooth}
+@media (max-width:700px){nav[aria-label="Navigation principale"]{display:none!important}}
+
